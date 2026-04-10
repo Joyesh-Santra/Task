@@ -1,11 +1,30 @@
 {
   "date": "10-April-2026",
-  "totalXP": 0,
+  "totalXP": 33,
   "rank": "Peasant",
   "kingdomTier": "Lonely Hamlet",
-  "tasks": [],
-  "wakeTime": null,
-  "sleepTime": null,
-  "buildings": 0,
+  "tasks": [
+    {
+      "name": "Connect with github",
+      "hours": 0.25,
+      "xp": 7,
+      "category": "coding"
+    },
+    {
+      "name": "Study DIP for exam",
+      "hours": 0.3,
+      "xp": 9,
+      "category": "coding"
+    },
+    {
+      "name": "Completed assignment and lab work of both ML,AI and DiP lab",
+      "hours": 1,
+      "xp": 42,
+      "category": "coding"
+    }
+  ],
+  "wakeTime": "08:00",
+  "sleepTime": "23:45",
+  "buildings": 4,
   "streak": 0
 }
