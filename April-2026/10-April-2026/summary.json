@@ -1,8 +1,8 @@
 {
   "date": "10-April-2026",
-  "totalXP": 33,
+  "totalXP": 43,
   "rank": "Peasant",
-  "kingdomTier": "Lonely Hamlet",
+  "kingdomTier": "Growing Village",
   "tasks": [
     {
       "name": "Connect with github",
@@ -21,10 +21,16 @@
       "hours": 1,
       "xp": 42,
       "category": "coding"
+    },
+    {
+      "name": "Completed College Gmail work",
+      "hours": 0.25,
+      "xp": 10,
+      "category": "coding"
     }
   ],
   "wakeTime": "08:00",
   "sleepTime": "23:45",
-  "buildings": 4,
+  "buildings": 5,
   "streak": 0
 }
